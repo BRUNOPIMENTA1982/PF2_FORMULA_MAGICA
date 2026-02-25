@@ -11,10 +11,11 @@ E também para servir de Repositório dos documentos do projeto.
 - OBJETIVO PRINCIPAL: 
 
 - OBJETIVO SECUNDÁRIO 1:
+- OBJETIVO SECUNDÁRIO 1:
+- OBJETIVO SECUNDÁRIO 1:  
+- OBJETIVO SECUNDÁRIO 1:  
+- OBJETIVO SECUNDÁRIO 1:
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
 
 ## 🛠️ Tecnologias Utilizadas
 
