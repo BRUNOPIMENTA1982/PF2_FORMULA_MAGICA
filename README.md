@@ -2,9 +2,15 @@
 
 ## 📋 Descrição
 
-Bem-vindo ao projeto **PF2_FORMULA_MAGICA**! Este é um projeto desenvolvido para [descrever o propósito principal do projeto].
+Bem-vindo ao projeto **PF2_FORMULA_MAGICA**! Este é um projeto desenvolvido para o Projeto Final 2 - DESEMPENHO DA FÓRMULA MÁGICA PERANTE AO BENCHMARK DO MERCADO BRASILEIRO.
 
-## 🎯 Objetivos
+E também para servir de Repositório dos documentos do projeto.
+
+##🎯 OBJETIVOS
+
+- OBJETIVO PRINCIPAL: 
+
+- OBJETIVO SECUNDÁRIO 1:
 
 - Objetivo 1
 - Objetivo 2
